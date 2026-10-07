@@ -88,10 +88,7 @@ The research aims to:
 11. Investigate underwater robotics for offshore energy systems.
 12. Examine mobile and legged robots for industrial inspection.
 13. Investigate robotic systems for nuclear environments.
-14. Examine the role of digital twins and simulation.
-15. Investigate ROS 2 and robotics simulation platforms.
-16. Analyse the potential contribution of AI to autonomous energy infrastructure management.
-17. Identify future research opportunities for intelligent energy infrastructure.
+
 
 ---
 
